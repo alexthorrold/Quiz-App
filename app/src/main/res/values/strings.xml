@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="prev">Prev</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="next">Next</string>
+    <string name="text_view_description">Question text</string>
+
+    <string name="question_nintendo">The Nintendo Switch was released in 2017</string>
+    <string name="question_apollo">The Apollo 11 landing was in 1968</string>
+    <string name="question_lincoln">Abraham Lincoln was the 16th president of the U.S.A.</string>
+    <string name="answer_correct_feedback">That\'s correct!</string>
+    <string name="answer_incorrect_feedback">That\'s incorrect.</string>
+</resources>
